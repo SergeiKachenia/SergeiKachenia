@@ -1,5 +1,6 @@
 ## Hi there, i'm Sergei 👋
-### Frontend Web Developer
+### Frontend Web Developer 
+https://www.codewars.com/users/SergeiKachenia/badges/large
 ____
 
 
