@@ -6,13 +6,13 @@
 <a href="https://www.linkedin.com/in/sergei-kachenia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a></p>
   
 
-- 🔭 I’m currently working on Yandex.Practicum training projects
-- 🌱 I’m currently learning JavaScript / React / Redux / Redux Toolkit / TypeScript
-- 👯 I plan to learn Jest+Cypress / Node.js / Express / MongoDB / PostgreSQL / Nest.js
+- 🔭 I’m currently working on **Yandex.Practicum training projects
+- 🌱 I’m currently learning **JavaScript / React / Redux / Redux Toolkit / TypeScript
+- 👯 I plan to learn **Jest+Cypress / Node.js / Express / MongoDB / PostgreSQL / Nest.js
 
 ____
 
-<h3 align="center">My skills</h3> 
+<h3 align="center">My skills:</h3> 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
