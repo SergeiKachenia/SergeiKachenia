@@ -3,8 +3,8 @@
 ____
 
 
-- 🔭 I’m currently working on ##### Yandex.Practicum training project
-- 🌱 I’m currently learning ##### JavaScript / React / Redux / Redux Toolkit / TypeScript
-- 👯 I plan to learn ##### Jest+Cypress / Node.js / Express / MongoDB / PostgreSQL / Nest.js
+- 🔭 I’m currently working on Yandex.Practicum training projects
+- 🌱 I’m currently learning JavaScript / React / Redux / Redux Toolkit / TypeScript
+- 👯 I plan to learn Jest+Cypress / Node.js / Express / MongoDB / PostgreSQL / Nest.js
 
 
