@@ -6,6 +6,7 @@
 <a href="https://www.linkedin.com/in/sergei-kachenia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>&nbsp; <a href="https://spb.hh.ru/resume/99fa66a4ff09af21eb0039ed1f4e35796d3669" target="blank"><img align="center" src="https://static.tildacdn.com/tild6336-3633-4133-a133-623032623963/noroot.png" alt="hh" height="30" width="30" /></a>
 </p>
 
+____
 
 
 - 🔭 I’m currently working on Yandex.Practicum training projects
@@ -20,6 +21,7 @@ ____
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -28,6 +30,13 @@ ____
 
 ____
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SergeiKachenia&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SergeiKachenia&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SergeiKachenia&theme=github_dark)
+
+
+____
+
 <h3 align="center">Contact me: </h3>
-<p align="center">Mail: sergeikachenya@yandex.ru </p>
-<p align="center">Telegram: @belitozz</p>
+<p align="center"> <ins>Mail:</ins> sergeikachenya@yandex.ru </p>
+<p align="center"> <ins>Telegram:</ins> @belitozz</p>
