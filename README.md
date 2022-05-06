@@ -25,3 +25,9 @@ ____
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+____
+
+<h3 align="center">Contact me: </h3>
+<h4 align="center">Mail: sergeikachenya@yandex.ru </h4>
+<h4 align="center">Telegram: @belitozz</h4>
