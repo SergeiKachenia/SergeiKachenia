@@ -38,6 +38,5 @@ ____
 ____
 
 <h3 align="center">Contact me: </h3>
-<p align="center"> <ins>Mail:</ins> sergeikachenya@yandex.ru 
-<ins>Telegram:</ins> @belitozz
-  </p>
+<p align="center"> <ins>Mail:</ins> sergeikachenya@yandex.ru </p>
+<p align="center"> <ins>Telegram:</ins> @belitozz</p>
