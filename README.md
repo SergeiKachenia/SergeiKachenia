@@ -9,9 +9,9 @@
 ____
 
 
-- 🔭 I’m currently working on Yandex.Practicum training projects
-- 🌱 I’m currently learning JavaScript / React / Redux / Redux Toolkit / TypeScript / Jest / Cypress
-- 👯 I plan to learn Node.js / Express / MongoDB / PostgreSQL / Nest.js
+- 🔭 I’m currently working on Spraut (Moscow, remote)
+- 🌱 I’m currently learning JavaScript / React / Redux / Redux Toolkit / TypeScript / Jest / Cypress / Node.js / Express / MongoDB
+- 👯 I plan to learn PostgreSQL / Nest.js
 
 ____
 
