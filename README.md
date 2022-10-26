@@ -9,7 +9,8 @@
 ____
 
 
-- 🔭 I’m currently working on <b>Spraut (Moscow, remote) as Frontend Developer</b>
+- 🔭 I’m currently working at <ins>Spraut</ins> (Moscow, remote) as <b>Frontend Developer</b> and
+<br>  at <ins> Yandex</ins> (Moscow, remote, part-time) as <b>Frontend mentor and reviewer in the Yandex Intensive program </b>
 - 🌱 My Stack: <b> JavaScript / TypeScript / React / Redux (Redux Toolkit) / Jest / Cypress</b>
 - 👯 I learning: <b>Node.js / Nest.js / PostgreSQL / Express / MongoDB</b>
 
