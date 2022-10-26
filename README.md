@@ -9,9 +9,9 @@
 ____
 
 
-- 🔭 I’m currently working on Spraut (Moscow, remote)
-- 🌱 I’m currently learning JavaScript / React / Redux / Redux Toolkit / TypeScript / Jest / Cypress / Node.js / Express / MongoDB
-- 👯 I plan to learn PostgreSQL / Nest.js
+- 🔭 I’m currently working on Spraut (Moscow, remote) as Frontend Developer
+- 🌱 My Stack:  JavaScript / TypeScript / React / Redux (Redux Toolkit) / Jest / Cypress
+- 👯 I learning:  Node.js / Nest.js / PostgreSQL / Express / MongoDB
 
 ____
 
