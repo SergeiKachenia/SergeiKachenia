@@ -1,6 +1,7 @@
 
 <h2 align="center">Hi there, i'm Sergei 👋</h2>
 <h3 align="center">Frontend Web Developer from Saint-Petersburg, Russia</h3> 
+<h4 align="center">Currently live in Thailand, Phuket</h4> 
 <p align="center"><img src="https://www.codewars.com/users/SergeiKachenia/badges/large" alt="codewars"></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/sergei-kachenia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>&nbsp; <a href="https://spb.hh.ru/resume/99fa66a4ff09af21eb0039ed1f4e35796d3669" target="blank"><img align="center" src="https://static.tildacdn.com/tild6336-3633-4133-a133-623032623963/noroot.png" alt="hh" height="30" width="30" /></a>
