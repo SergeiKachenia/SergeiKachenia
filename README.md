@@ -8,11 +8,36 @@
 
 ____
 
+<ul>
+  <h3 align="center">My work expierence:</h3> 
+  <li> <ins>Hawking Bros</ins> (remote) as <b>Intern Frontend Developer</b>;</li>
+  <li> <ins>RM Solution & Spraut</ins> (remote) as <b>Junior Frontend Developer</b>;</li>
+  <li> <ins>Yandex</ins> (remote, part-time) as <b>Mentor/rewiever</b>;</li>
+  <li> I’m currently working at <ins>Delaem</ins> (remote, part-time) as <b>Middle Frontend Developer</b>;</li>
+</ul>
 
-- 🔭 I’m currently working at <ins>Spraut</ins> (Moscow, remote) as <b>Frontend Developer</b> and
-<br>  at <ins> Yandex</ins> (Moscow, remote, part-time) as <b>Frontend mentor and reviewer in the Yandex Intensive program </b>
-- 🌱 My Stack: <b> JavaScript / TypeScript / React / Redux (Redux Toolkit) / Jest / Cypress</b>
-- 👯 I learning: <b>Node.js / Nest.js / PostgreSQL / Express / MongoDB</b>
+
+<ul>
+  <h3 align="center">My Stack:</h3>
+  <li>JavaScript</li>
+  <li>TypeScript</li>
+  <li>React</li> 
+  <li>Redux (Redux Toolkit)</li> 
+  <li>Jest</li>
+  <li>Cypress</li>
+</ul>
+  
+  
+<ul>
+  <h3 align="center">I learning:</h3>
+  <li>Node.js</li> 
+  <li>Nest.js</li> 
+  <li>Next.js</li> 
+  <li>PostgreSQL</li>
+  <li>Express</li>
+  <li>MongoDB</li>
+</ul>
+
 
 ____
 
