@@ -11,6 +11,7 @@ ____
 
 <ul>
   <h3 align="center">My work expierence:</h3> 
+  <li> <ins>Yandex.Practicum</ins> (remote) as <b>Student Frontend Developer</b>;</li>
   <li> <ins>Hawking Bros</ins> (remote) as <b>Intern Frontend Developer</b>;</li>
   <li> <ins>RM Solution & Spraut</ins> (remote) as <b>Junior Frontend Developer</b>;</li>
   <li> <ins>Yandex</ins> (remote, part-time) as <b>Mentor/rewiever</b>;</li>
