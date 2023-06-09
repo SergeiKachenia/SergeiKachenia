@@ -14,6 +14,7 @@ ____
   <li> <ins>Hawking Bros</ins> (remote) as <b>Intern Frontend Developer</b>;</li>
   <li> <ins>RM Solution & Spraut</ins> (remote) as <b>Junior Frontend Developer</b>;</li>
   <li> <ins>Yandex</ins> (remote, part-time) as <b>Mentor/rewiever</b>;</li>
+  <li> I’m currently working at <ins>Gervigsoft</ins> (full-time) as <b>Middle Frontend Developer</b>;</li>
   <li> I’m currently working at <ins>Delaem</ins> (remote, part-time) as <b>Middle Frontend Developer</b>;</li>
 </ul>
 
