@@ -15,7 +15,7 @@ ____
   <li> <ins>RM Solution & Spraut</ins> (remote, full-time) as <b>Junior Frontend Developer</b>;</li>
   <li> <ins>Yandex</ins> (remote, part-time) as <b>Mentor/rewiever</b>;</li>
   <li> <ins>Delaem</ins> (remote, part-time) as <b>Middle Frontend Developer</b>;</li>
-  <li> I’m currently working at <ins>Gervigsoft</ins> (full-time) as <b>Middle Frontend Developer</b>;</li>
+  <li> I’m currently working at <ins>Gervigsoft</ins> (remote, full-time) as <b>Middle Frontend Developer</b>;</li>
   
 </ul>
 
