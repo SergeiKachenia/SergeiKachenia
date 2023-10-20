@@ -10,9 +10,9 @@ ____
 
 <ul>
   <h3 align="center">My work expierence:</h3> 
-  <li> <ins>Yandex.Practicum</ins> (remote) as <b>Student Frontend Developer</b>;</li>
-  <li> <ins>Hawking Bros</ins> (remote) as <b>Intern Frontend Developer</b>;</li>
-  <li> <ins>RM Solution & Spraut</ins> (remote) as <b>Junior Frontend Developer</b>;</li>
+  <li> <ins>Yandex.Practicum</ins> (remote, full-time) as <b>Student Frontend Developer</b>;</li>
+  <li> <ins>Hawking Bros</ins> (remote, part-time) as <b>Intern Frontend Developer</b>;</li>
+  <li> <ins>RM Solution & Spraut</ins> (remote, full-time) as <b>Junior Frontend Developer</b>;</li>
   <li> <ins>Yandex</ins> (remote, part-time) as <b>Mentor/rewiever</b>;</li>
   <li> <ins>Delaem</ins> (remote, part-time) as <b>Middle Frontend Developer</b>;</li>
   <li> I’m currently working at <ins>Gervigsoft</ins> (full-time) as <b>Middle Frontend Developer</b>;</li>
